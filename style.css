@@ -1,0 +1,49 @@
+/* Apply a global font style */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Style the header using an ID selector */
+#main-header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+/* Style the title with a class selector */
+.title {
+    font-size: 2.5em;
+    margin: 0;
+    padding: 0;
+}
+
+/* Style the content section using a class selector */
+.content {
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    background-color: white;
+}
+
+/* Style the image */
+.image {
+    display: block;
+    margin: 20px auto;
+    border-radius: 8px;
+    border: 2px solid #ddd;
+}
+
+/* Style the footer using a class selector */
+.footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+    margin-top: 30px;
+}
